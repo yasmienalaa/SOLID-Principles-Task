@@ -1,0 +1,81 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Test_CSharp_Codes/1.0.0": {
+        "dependencies": {
+          "Advanced_CSharp": "1.0.0",
+          "Basic_CSharp": "1.0.0",
+          "OOP_CSharp": "1.0.0",
+          "SOLID_CSharp": "1.0.0"
+        },
+        "runtime": {
+          "Test_CSharp_Codes.dll": {}
+        }
+      },
+      "Advanced_CSharp/1.0.0": {
+        "runtime": {
+          "Advanced_CSharp.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Basic_CSharp/1.0.0": {
+        "runtime": {
+          "Basic_CSharp.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "OOP_CSharp/1.0.0": {
+        "runtime": {
+          "OOP_CSharp.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SOLID_CSharp/1.0.0": {
+        "runtime": {
+          "SOLID_CSharp.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test_CSharp_Codes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Advanced_CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Basic_CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OOP_CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SOLID_CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

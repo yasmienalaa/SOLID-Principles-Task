@@ -1,3 +1,3 @@
-﻿
+﻿using Basic_CSharp;
 
-Console.WriteLine("Hello, World!");
+B_Task_1.Sol();

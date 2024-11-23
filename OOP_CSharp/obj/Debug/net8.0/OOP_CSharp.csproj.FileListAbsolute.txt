@@ -1,0 +1,12 @@
+C:\Users\Abanoub Saweris\RiderProjects\Practising_CSharp\OOP_CSharp\bin\Debug\net8.0\OOP_CSharp.deps.json
+C:\Users\Abanoub Saweris\RiderProjects\Practising_CSharp\OOP_CSharp\bin\Debug\net8.0\OOP_CSharp.dll
+C:\Users\Abanoub Saweris\RiderProjects\Practising_CSharp\OOP_CSharp\bin\Debug\net8.0\OOP_CSharp.pdb
+C:\Users\Abanoub Saweris\RiderProjects\Practising_CSharp\OOP_CSharp\obj\Debug\net8.0\OOP_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abanoub Saweris\RiderProjects\Practising_CSharp\OOP_CSharp\obj\Debug\net8.0\OOP_CSharp.AssemblyInfoInputs.cache
+C:\Users\Abanoub Saweris\RiderProjects\Practising_CSharp\OOP_CSharp\obj\Debug\net8.0\OOP_CSharp.AssemblyInfo.cs
+C:\Users\Abanoub Saweris\RiderProjects\Practising_CSharp\OOP_CSharp\obj\Debug\net8.0\OOP_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Abanoub Saweris\RiderProjects\Practising_CSharp\OOP_CSharp\obj\Debug\net8.0\OOP_CSharp.sourcelink.json
+C:\Users\Abanoub Saweris\RiderProjects\Practising_CSharp\OOP_CSharp\obj\Debug\net8.0\OOP_CSharp.dll
+C:\Users\Abanoub Saweris\RiderProjects\Practising_CSharp\OOP_CSharp\obj\Debug\net8.0\refint\OOP_CSharp.dll
+C:\Users\Abanoub Saweris\RiderProjects\Practising_CSharp\OOP_CSharp\obj\Debug\net8.0\OOP_CSharp.pdb
+C:\Users\Abanoub Saweris\RiderProjects\Practising_CSharp\OOP_CSharp\obj\Debug\net8.0\ref\OOP_CSharp.dll
