@@ -1,11 +1,11 @@
-﻿using Basic_CSharp;
-using OOP_CSharp;
+﻿using System;
+using SOLID_CSharp;
 
-//B_Task_1.Sol();
-//B_Task_2.Sol();
-//B_Task_3.Sol();
-//B_Task_4.Sol();
-//B_Task_5.Sol();
-OOP_Task_1.Sol();
-
-
+var subscriptionManager = new SubscriptionManager();
+        
+// Create different subscription types
+subscriptionManager.CreateSubscription("john@example.com", "Basic"); 
+subscriptionManager.CreateSubscription("jane@example.com", "Pro");
+        
+// Process features
+subscriptionManager.ProcessFeatures("john@example.com");
