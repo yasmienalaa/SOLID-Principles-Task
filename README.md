@@ -72,11 +72,3 @@ This project deliberately violates all SOLID principles to serve as a learning e
 
 5. Remove direct dependencies on concrete implementations
 
-## Evaluation Criteria
-
-Students will be evaluated on:
-1. Ability to identify SOLID violations
-2. Quality of refactored code
-3. Proper implementation of SOLID principles
-4. Code organization and structure
-5. Documentation of changes made
